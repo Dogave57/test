@@ -1,1 +1,1 @@
-console.log("path: ", window.location.pathname);
+console.log(window.location.pathname);
